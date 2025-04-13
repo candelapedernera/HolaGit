@@ -14,7 +14,7 @@ public class HolaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Guille");
+        System.out.println("Hola Ale");
     }
     
 }
